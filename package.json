@@ -1,0 +1,32 @@
+{
+  "name": "framer-windows",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/helloproclub/framer-windows"
+  },
+  "main": "app.js",
+  "dependencies": {
+    "framerjs-prebuilt": "git+https://github.com/joetheday/framerjs-prebuilt.git"
+  },
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "coffeeify": "^1.1.0",
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-util": "^3.0.6",
+    "gulp-watch": "^4.3.5",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Javier Chávarri",
+  "contributors": {
+    "Joe Day": "joeday@microsoft.com",
+    "Afnizar Nur Ghifari": "afnizarhilmi@gmail.com"
+  }
+}
