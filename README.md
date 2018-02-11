@@ -37,4 +37,4 @@ If you're hosting a Framer Meetup and used this repository, we would love to add
 ### Resource
 This section include all good resource to support you learning Framer.
 - [Framer Documentation](https://framer.com/docs/)
-- Introduction to Prototyping by Afrian Hanafi
+- [Introduction to Prototyping by Afrian Hanafi](https://github.com/helloproclub/framer-windows.git)
