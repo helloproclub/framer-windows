@@ -11,7 +11,7 @@
 
 ---
 
-[Framer](https://framer.com/) is a tool for high fidelity prototyping and currently just support Mac 😕. In Indonesia, so many great designer is using Windows and don't know what is Framer and how to use that for prototyping. The good news is, this repository help you to run Framer on Windows ✨! 
+[Framer](https://framer.com/) is a tool for high fidelity prototyping and currently just support Mac 😕. In Indonesia, so many great designer is using Windows and don't know what is Framer and how to use that for prototyping. The good news is, this repository help you to run Framer on Windows ✨!
 
 This project is using boilerplate from [jchavarri/framer-boilerplate](https://github.com/jchavarri/framer-boilerplate) and originally built from [joetheday/framer-boilerplate](https://github.com/joetheday/framer-boilerplate).
 
@@ -37,4 +37,4 @@ If you're hosting a Framer Meetup and used this repository, we would love to add
 ### Resource
 This section include all good resource to support you learning Framer.
 - [Framer Documentation](https://framer.com/docs/)
-- Introduction to Prototyping by Afrian Hanafi
+- [Introduction to Prototyping by Afrian Hanafi](https://github.com/helloproclub/framer-windows.git)
