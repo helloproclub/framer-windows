@@ -1,12 +1,4 @@
-<h3 align='center'>
-    <a href='https://madewithframer.com/'>
-        <img width=130 src='https://user-images.githubusercontent.com/4648648/36064446-cd958b24-0ebd-11e8-95fc-c1b4548f6478.png' alt='Made with Framer' />
-    </a>
-</h3>
-
-
 <h3 align="center">Framer Windows</h3>
-
 <p align='center'>A boilerplate to use Framer on Windows or any Mac and Linux</p>
 
 ---
