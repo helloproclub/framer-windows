@@ -7,11 +7,11 @@
 
 <h3 align="center">Framer Windows</h3>
 
-<p align='center'>A boilerplate to use Framer on Windows</p>
+<p align='center'>A boilerplate to use Framer on Windows or any Mac and Linux</p>
 
 ---
 
-[Framer](https://framer.com/) is a tool for high fidelity prototyping and currently just support Mac 😕. In Indonesia, so many great designer is using Windows and don't know what is Framer and how to use that for prototyping. The good news is, this repository help you to run Framer on Windows ✨! 
+[Framer](https://framer.com/) is a tool for high fidelity prototyping and currently just support Mac 😕. In Indonesia, so many great designer is using Windows and don't know what is Framer and how to use that for prototyping. The good news is, this repository help you to run Framer on Windows or any Mac and Linux ✨! 
 
 This project is using boilerplate from [jchavarri/framer-boilerplate](https://github.com/jchavarri/framer-boilerplate) and originally built from [joetheday/framer-boilerplate](https://github.com/joetheday/framer-boilerplate).
 
@@ -22,7 +22,7 @@ This project is using boilerplate from [jchavarri/framer-boilerplate](https://gi
 2. Install [Git](https://git-scm.com/).
 3. Install Gulp – Open up Command Prompt and type `npm install -g gulp-cli`.
 4. Clone this project via Github Desktop or Command Prompt.
-5. After that, In Command Prompt, browse this boilerplate folder `cd \src\[boilerplate]` and type `npm install`.
+5. After that, In Command Prompt, browse this boilerplate folder `cd \framer-windows\` and type `npm install`.
 6. Finally, in Command Prompt, type `gulp`. Browse to http://localhost:3000.
 7. Edit the app.coffee to add interactions and animations. Happy prototyping with Framer 🤘
 
