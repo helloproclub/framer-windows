@@ -18,7 +18,7 @@ This project is using boilerplate from [jchavarri/framer-boilerplate](https://gi
 6. Finally, in Command Prompt, type `gulp`. Browse to http://localhost:3000.
 7. Edit the app.coffee to add interactions and animations. Happy prototyping with Framer 🤘
 
-![directory](https://user-images.githubusercontent.com/4648648/36064157-3a86e886-0eb9-11e8-9a85-011bab6bce81.png)
+![directory](https://user-images.githubusercontent.com/4648648/36108796-3e4792fc-1050-11e8-8251-5ab79abc3346.png)
 
 ---
 
